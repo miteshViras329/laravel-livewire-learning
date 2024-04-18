@@ -10,7 +10,8 @@
 </head>
 
 <body>
-    <livewire:contact-form />
+    {{-- <livewire:contact-form /> --}}
+    <livewire:counter />
 </body>
 @livewireScripts
 
