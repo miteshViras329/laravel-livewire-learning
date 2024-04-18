@@ -10,7 +10,8 @@
 </head>
 
 <body>
-    <livewire:counter />
+    <livewire:contact-form />
 </body>
 @livewireScripts
+
 </html>

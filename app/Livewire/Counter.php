@@ -11,7 +11,6 @@ class Counter extends Component
 
     public function increment($extra = null)
     {
-        dd($extra);
         $this->count++;
     }
 
